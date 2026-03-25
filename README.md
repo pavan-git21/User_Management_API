@@ -1,4 +1,6 @@
 *User Management API*
+
+
 A simple RESTful API built with FastAPI to manage users. Supports full CRUD operations with search and sorting capabilities. User data is persisted in a local JSON file.
 
 *Tech Stack*
