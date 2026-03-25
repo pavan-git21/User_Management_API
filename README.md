@@ -6,15 +6,22 @@ A simple RESTful API built with FastAPI to manage users. Supports full CRUD oper
 *Tech Stack*
 
 FastAPI – Web framework
+
 Pydantic – Data validation via models
+
 Uvicorn – ASGI server
+
 JSON file – Lightweight local storage (users.json)
 
 
 *Project Structure*
+
  main.py          # API routes and business logic
+ 
  models.py        # Pydantic User model
+ 
  users.json       # Auto-generated data store
+ 
  requirements.txt # Dependencies
 
 
