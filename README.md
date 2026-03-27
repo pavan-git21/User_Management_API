@@ -34,3 +34,8 @@ pip install fastapi uvicorn pydantic
 uvicorn main:app --reload
 
 The API will be available at http://127.0.0.1:8000/docs
+
+
+Deployed live User API is at
+
+https://user-api-pwl2.onrender.com/docs
